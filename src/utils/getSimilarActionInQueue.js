@@ -15,9 +15,7 @@ export default function getSimilarActionInQueue(
     return actionQueue.find((queued: *) => isEqual(queued, action));
   }
   if (typeof action === 'function') {
-    return actionQueue.find(
-      (queued: *) => action.toString() === queued.toString(),
-    );
+    return actionQueue.find((queued: *) =>  isEqual(action.meta, queued.meta));
   }
   return undefined;
 }
