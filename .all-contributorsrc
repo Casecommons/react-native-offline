@@ -327,7 +327,82 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "helderburato",
+      "name": "Helder Burato Berto",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/862575?v=4",
+      "profile": "https://helder.dev",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ankeetmaini",
+      "name": "Ankeet Maini",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6652823?v=4",
+      "profile": "http://ankeetmaini.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nipuna777",
+      "name": "Nipuna Gunathilake",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5859290?v=4",
+      "profile": "http://www.nipuna777.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "1ike",
+      "name": "1ike",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10694949?v=4",
+      "profile": "https://github.com/1ike",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "JH108",
+      "name": "Jesse Hill",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/14010157?v=4",
+      "profile": "https://github.com/JH108",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ugurakkurt",
+      "name": "ugur akkurt",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/12188837?v=4",
+      "profile": "https://github.com/ugurakkurt",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "caiangums",
+      "name": "Ilê Caian",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7551787?v=4",
+      "profile": "https://github.com/caiangums",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "sbelzile-nexapp",
+      "name": "Sébastien Belzile",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67745993?v=4",
+      "profile": "https://github.com/sbelzile-nexapp",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
